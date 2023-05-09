@@ -1,3 +1,6 @@
+
+![logo](https://github.com/samiksha03111/samiksha03111/blob/main/imgsss.jpg)
+
 <h1 align="center">Hi 👋, I'm Samiksha Doke</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
